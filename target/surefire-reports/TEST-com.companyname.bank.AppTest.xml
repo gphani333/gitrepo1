@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.companyname.bank.AppTest" time="0.005" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="ci-git-mvn"/>
+    <property name="PWD" value="/home/centos/N1_L"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://192.168.1.11:8080/jenkins/job/ci-git-mvn/2/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="/root/.jenkins"/>
+    <property name="PATH" value="/home/centos/jdk1.8.0_281//bin:/home/centos/.local/bin:/home/centos/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin"/>
+    <property name="HUDSON_SERVER_COOKIE" value="47802cd664ef9be0"/>
+    <property name="POM_ARTIFACTID" value="consumerBanking"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.boot.class.path" value="/home/centos/jdk1.8.0_281/jre/lib/resources.jar:/home/centos/jdk1.8.0_281/jre/lib/rt.jar:/home/centos/jdk1.8.0_281/jre/lib/sunrsasign.jar:/home/centos/jdk1.8.0_281/jre/lib/jsse.jar:/home/centos/jdk1.8.0_281/jre/lib/jce.jar:/home/centos/jdk1.8.0_281/jre/lib/charsets.jar:/home/centos/jdk1.8.0_281/jre/lib/jfr.jar:/home/centos/jdk1.8.0_281/jre/classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="consumerBanking"/>
+    <property name="XDG_RUNTIME_DIR" value="/run/user/1000"/>
+    <property name="NODE_LABELS" value="Linuxnode N1_L"/>
+    <property name="java.runtime.version" value="1.8.0_281-b09"/>
+    <property name="user.name" value="centos"/>
+    <property name="SSH_CONNECTION" value="192.168.1.11 56224 192.168.1.12 22"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="SSH_CLIENT" value="192.168.1.11 56224 22"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="ci-git-mvn"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://192.168.1.11:8080/jenkins/job/ci-git-mvn/2/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="sun.boot.library.path" value="/home/centos/jdk1.8.0_281/jre/lib/amd64"/>
+    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="36949c49840673569bde8a3141ef4a5f1536f02b"/>
+    <property name="java.version" value="1.8.0_281"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="SELINUX_ROLE_REQUESTED" value=""/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="N1_L"/>
+    <property name="java.endorsed.dirs" value="/home/centos/jdk1.8.0_281/jre/lib/endorsed"/>
+    <property name="BUILD_ID" value="2"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="SHELL" value="/bin/bash"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="/home/centos/N1_L/tools/hudson.tasks.Maven_MavenInstallation/_home_centos_apache-maven-3.6.3_bin_/conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="java.home" value="/home/centos/jdk1.8.0_281/jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="LESSOPEN" value="||/usr/bin/lesspipe.sh %s"/>
+    <property name="os.version" value="4.18.0-240.22.1.el8_3.x86_64"/>
+    <property name="RUN_DISPLAY_URL" value="http://192.168.1.11:8080/jenkins/job/ci-git-mvn/2/display/redirect"/>
+    <property name="POM_VERSION" value="1.0-SNAPSHOT"/>
+    <property name="sun.font.fontmanager" value="sun.awt.X11FontManager"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://192.168.1.11:8080/jenkins/job/ci-git-mvn/2/display/redirect?page=artifacts"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="25.281-b09"/>
+    <property name="GIT_PREVIOUS_COMMIT" value="36949c49840673569bde8a3141ef4a5f1536f02b"/>
+    <property name="JOB_DISPLAY_URL" value="http://192.168.1.11:8080/jenkins/job/ci-git-mvn/display/redirect"/>
+    <property name="SHLVL" value="1"/>
+    <property name="SELINUX_USE_CURRENT_RANGE" value=""/>
+    <property name="_" value="/usr/bin/java"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="JAVA_HOME" value="/home/centos/jdk1.8.0_281/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="LOGNAME" value="centos"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="HOME" value="/home/centos"/>
+    <property name="POM_GROUPID" value="com.companyname.bank"/>
+    <property name="user.home" value="/home/centos"/>
+    <property name="BUILD_TAG" value="jenkins-ci-git-mvn-2"/>
+    <property name="JENKINS_SERVER_COOKIE" value="47802cd664ef9be0"/>
+    <property name="HUDSON_URL" value="http://192.168.1.11:8080/jenkins/"/>
+    <property name="DBUS_SESSION_BUS_ADDRESS" value="unix:path=/run/user/1000/bus"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="XDG_SESSION_ID" value="3"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="SELINUX_LEVEL_REQUESTED" value=""/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="/home/centos/N1_L/tools/hudson.tasks.Maven_MavenInstallation/_home_centos_apache-maven-3.6.3_bin_"/>
+    <property name="java.class.path" value="/home/centos/N1_L/maven35-agent.jar:/home/centos/N1_L/tools/hudson.tasks.Maven_MavenInstallation/_home_centos_apache-maven-3.6.3_bin_/boot/plexus-classworlds-2.6.0.jar:/home/centos/N1_L/tools/hudson.tasks.Maven_MavenInstallation/_home_centos_apache-maven-3.6.3_bin_/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /home/centos/N1_L/tools/hudson.tasks.Maven_MavenInstallation/_home_centos_apache-maven-3.6.3_bin_ /home/centos/N1_L/remoting.jar /home/centos/N1_L/maven35-interceptor.jar /home/centos/N1_L/maven3-interceptor-commons.jar 33943"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PATH+JDK" value="/home/centos/jdk1.8.0_281//bin"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="/home/centos/N1_L/tools/hudson.tasks.Maven_MavenInstallation/_home_centos_apache-maven-3.6.3_bin_"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="CI" value="true"/>
+    <property name="HUDSON_HOME" value="/root/.jenkins"/>
+    <property name="PATH+MAVEN" value="/home/centos/N1_L/tools/hudson.tasks.Maven_MavenInstallation/_home_centos_apache-maven-3.6.3_bin_/bin"/>
+    <property name="BUILD_URL" value="http://192.168.1.11:8080/jenkins/job/ci-git-mvn/2/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="OLDPWD" value="/home/centos"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.ext.dirs" value="/home/centos/jdk1.8.0_281/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="user.dir" value="/home/centos/N1_L/workspace/ci-git-mvn"/>
+    <property name="JOB_URL" value="http://192.168.1.11:8080/jenkins/job/ci-git-mvn/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="/home/centos/N1_L/tools/hudson.tasks.Maven_MavenInstallation/_home_centos_apache-maven-3.6.3_bin_"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="2"/>
+    <property name="JENKINS_URL" value="http://192.168.1.11:8080/jenkins/"/>
+    <property name="GIT_BRANCH" value="origin/master"/>
+    <property name="GIT_COMMIT" value="36949c49840673569bde8a3141ef4a5f1536f02b"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="LANG" value="en_US.UTF-8"/>
+    <property name="maven3.interceptor" value="/home/centos/N1_L/maven35-interceptor.jar"/>
+    <property name="WORKSPACE_TMP" value="/home/centos/N1_L/workspace/ci-git-mvn@tmp"/>
+    <property name="WORKSPACE" value="/home/centos/N1_L/workspace/ci-git-mvn"/>
+    <property name="maven3.interceptor.common" value="/home/centos/N1_L/maven3-interceptor-commons.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="USER" value="centos"/>
+    <property name="GIT_URL" value="https://github.com/gphani333/gitrepo1.git"/>
+  </properties>
+  <testcase classname="com.companyname.bank.AppTest" name="testApp" time="0.005"/>
+</testsuite>
