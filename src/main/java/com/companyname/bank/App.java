@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Odd Nos 1..3..5..!" );
-	System.out.println( "Even Nos 2..4..6..!" );
+        System.out.println( "Odd Nos 1..3..5..7..!" );
+	System.out.println( "Even Nos 2..4..6..8..!" );
     }
 }
