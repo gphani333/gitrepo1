@@ -1,14 +1,9 @@
 package com.companyname.bank;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "G.Phani..!" );
-	System.out.println( "Chaitanya..!" );
+        System.out.println( "Guttikonda Phani Chaitanya..!" );
     }
 }
